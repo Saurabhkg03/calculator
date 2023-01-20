@@ -16,8 +16,8 @@
       min-height: 100vw;
 }
 .calculator{
-    width: 20rem;
-    height: 40rem;
+    width: 18rem;
+    height: 39rem;
     border: 1px solid black;
     background-color: white;
     border-radius: 2rem;
@@ -53,6 +53,11 @@ button{
 
 }
 #operation{
+    margin: 1rem;
+    background-color: rgb(108, 205, 76);
+}
+
+//#delete{
     margin: 1rem;
     background-color: rgb(108, 205, 76);
 }
